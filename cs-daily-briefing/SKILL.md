@@ -1,9 +1,10 @@
 ---
 name: cs-daily-briefing
 description: Set up 3 automated daily Slack briefings (8 AM, 12 PM, 4 PM) for Celonis CS engineers — scans support channels, enriches active incidents with CeloAssist context, and DMs a structured summary with source links.
----
-
-# CS Daily Briefing — Setup Skill
+this is a test skill for testing the CS Daily Briefing setup
+---   
+   
+# CS Daily Briefing — Setup Skill    - testing
 
 This skill sets up **three automated daily Slack briefings** tailored for Celonis Customer Support engineers. Each briefing scans key support and incident channels, enriches active incidents with CeloAssist historical context, and DMs you a structured summary with one-click source links.
 
