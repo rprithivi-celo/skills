@@ -76,18 +76,18 @@ Use Slack markdown:
 
 ## Format guidance (from real examples)
 
-**L2 engineer's style** (reference for quality):
+**L2 Engineer's style** (reference for quality):
 - Title includes customer name, issue type, and date
 - Explicit "Waiting on Customer" / "Waiting on PnE" sections
 - Actions Needed are conditional and specific (if X happens → do Y)
 - Includes business context (revenue at risk, use case criticality)
 
-**L2 engineer 2 style's style** (reference for brevity when multiple cases):
+**L2 Engineer 2's style** (reference for brevity when multiple cases):
 - Compact numbered list when handing over 3+ cases quickly
 - CBE link + product area + severity inline
 - CC relevant team members at the bottom
 
-**Default to L2 engineer's format** for 1-2 cases. Switch to L2 engineer 2 's compact style if the user provides 3+ cases with minimal detail.
+**Default to L2 Engineer's format** for 1-2 cases. Switch to L2 Engineer 2's compact style if the user provides 3+ cases with minimal detail.
 
 ## Tone
 Professional but direct. This is an internal team communication — no fluff, no excessive hedging. The next engineer reading this needs to be able to act without asking questions.
